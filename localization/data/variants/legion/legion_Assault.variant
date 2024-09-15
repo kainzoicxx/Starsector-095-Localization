@@ -1,5 +1,5 @@
 {
-    "displayName": "Assault",
+    "displayName": "突击",
     "fluxCapacitors": 0,
     "fluxVents": 18,
     "goalVariant": true,
@@ -12,6 +12,7 @@
         "expanded_deck_crew"
     ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "legion_Assault",
     "weaponGroups": [
         {

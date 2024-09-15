@@ -1,5 +1,5 @@
 {
-    "displayName": "Raider",
+    "displayName": "掠夺者",
     "fluxCapacitors": 8,
     "fluxVents": 10,
     "hullId": "lasher_pather",
@@ -9,6 +9,7 @@
         "blast_doors"
     ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "lasher_luddic_path_Raider",
     "weaponGroups": [
         {

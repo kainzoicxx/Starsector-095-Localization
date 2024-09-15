@@ -1,5 +1,5 @@
 {
-    "displayName": "Support",
+    "displayName": "支援",
     "fluxCapacitors": 1,
     "fluxVents": 10,
     "hullId": "brawler_tritachyon",
@@ -10,6 +10,7 @@
         "fluxbreakers"
     ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "brawler_tritachyon_Standard",
     "weaponGroups": [
         {

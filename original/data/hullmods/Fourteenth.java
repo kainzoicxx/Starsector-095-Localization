@@ -61,8 +61,8 @@ public class Fourteenth extends BaseHullMod {
 		//if (index == 2) return Misc.getRoundedValue((Float) mag.get(HullSize.CRUISER) + 1f);
 		//if (index == 3) return Misc.getRoundedValue((Float) mag.get(HullSize.CAPITAL_SHIP) + 1f);
 		if (index == 0) return Misc.getRoundedValue(ARMOR_BONUS);
-		if (index == 1) return "" + (int) ((1f - HANDLING_MULT) * 100f) + "%"; // + Strings.X;
-		if (index == 2) return "" + (int) ((CAPACITY_MULT - 1f) * 100f) + "%"; 
+		if (index == 1) return "" + (int) Math.round((1f - HANDLING_MULT) * 100f) + "%"; // + Strings.X;
+		if (index == 2) return "" + (int) Math.round((CAPACITY_MULT - 1f) * 100f) + "%"; 
 		return null;
 	}
 

@@ -1,6 +1,6 @@
 {
-    "displayName": "Rocket",
-    "fluxCapacitors": 16,
+    "displayName": "火箭",
+    "fluxCapacitors": 13,
     "fluxVents": 20,
     "hullId": "enforcer",
     "hullMods": [

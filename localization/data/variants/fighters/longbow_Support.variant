@@ -1,6 +1,6 @@
 {
 	"quality":0.5,
-	"displayName":"Kinetic Bomber",
+	"displayName":"动能轰炸机",
 	"hullId":"longbow",
 	"variantId":"longbow_Support",
 	"fluxVents":0,
@@ -17,7 +17,7 @@
 		},
 		{"mode":"LINKED",
 		 "weapons":{
-		 			"WS 002":"sabot_single",
+		 			"WS 002":"sabot_fighter",
 		 		   },
 		},
 	],
